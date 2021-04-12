@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cs520-Spring2020.iml" filepath="$PROJECT_DIR$/.idea/cs520-Spring2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/figureedtior/figureedtior.iml" filepath="$PROJECT_DIR$/figureedtior/figureedtior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rectangle/rectangle.iml" filepath="$PROJECT_DIR$/rectangle/rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threeinarow/threeinarow.iml" filepath="$PROJECT_DIR$/threeinarow/threeinarow.iml" />
+    </modules>
+  </component>
+</project>
